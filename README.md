@@ -36,6 +36,11 @@
 ```
 TARU
 ├ courses
+│   ├ 电脑入门笔记
+│   │    ├ 电脑入门笔记.md
+│   │    ├ github 使用笔记
+│   │    └ 电脑软件安装 使用笔记
+│   │     
 │   ├ 基础知识
 │   │    ├ 数学类
 │   │    │    ├ 高等数学
@@ -89,17 +94,27 @@ TARU
 │   │    ├ 汽车设计
 │   │    └ 混合动力汽车技术
 │   │ 
-│   └ 软件应用
-│        ├ 工程制图
-│        │     ├ AutoCAD
-│        │     └ UG/CATIA/PROE/Solidworks等
-│        ├ 仿真
-│        │     ├ Matlab
-│        │     ├ Simulink
-│        │     └ Anysis
-│        └ 编程
-│              ├ C/C++
-│              └ Python
+│   ├ 软件应用
+│   │    ├ 工程制图
+│   │    │     ├ AutoCAD
+│   │    │     └ UG/CATIA/PROE/Solidworks等
+│   │    ├ 仿真
+│   │    │     ├ Matlab
+│   │    │     ├ Simulink
+│   │    │     └ Anysis
+│   │    └ 编程
+│   │          ├ C/C++
+│   │          └ Python
+│   └ 论文写作
+│        ├ 外文参考
+│        │     ├ https://sci-hub.tw/（open-source DB）
+│        │     └ SCI
+│        ├ 中文参考
+│        │     ├ CNKI
+│        │     └ 万网
+│        └ 论文写作思路
+│              ├ pending
+│              └ pending
 │
 └ README.md
 ```
